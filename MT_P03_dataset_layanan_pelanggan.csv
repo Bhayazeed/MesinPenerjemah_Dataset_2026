@@ -1,0 +1,311 @@
+﻿Split,Source,Reference,Istilah Kunci
+train,"We have shipped your rice cooker, and the tracking number is in your email.","Kami sudah mengirim rice cooker Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your phone case, and the tracking number is in your email.","Kami sudah mengirim casing ponsel Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your shoes, and the tracking number is in your email.","Kami sudah mengirim sepatu Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your water bottle, and the tracking number is in your email.","Kami sudah mengirim botol minum Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your backpack, and the tracking number is in your email.","Kami sudah mengirim tas ransel Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your keyboard, and the tracking number is in your email.","Kami sudah mengirim keyboard Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your T-shirt, and the tracking number is in your email.","Kami sudah mengirim kaus Anda, dan nomor resi ada di email Anda.",nomor resi
+train,"We have shipped your jacket, and the tracking number is in your email.","Kami sudah mengirim jaket Anda, dan nomor resi ada di email Anda.",nomor resi
+validation,"We have shipped your umbrella, and the tracking number is in your email.","Kami sudah mengirim payung Anda, dan nomor resi ada di email Anda.",nomor resi
+train,Please check the tracking number before contacting the courier about your headphones.,Silakan cek nomor resi sebelum menghubungi kurir tentang headphone Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your sunglasses.,Silakan cek nomor resi sebelum menghubungi kurir tentang kacamata hitam Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your T-shirt.,Silakan cek nomor resi sebelum menghubungi kurir tentang kaus Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your watch.,Silakan cek nomor resi sebelum menghubungi kurir tentang jam tangan Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your jacket.,Silakan cek nomor resi sebelum menghubungi kurir tentang jaket Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your water bottle.,Silakan cek nomor resi sebelum menghubungi kurir tentang botol minum Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your umbrella.,Silakan cek nomor resi sebelum menghubungi kurir tentang payung Anda.,nomor resi
+train,Please check the tracking number before contacting the courier about your phone case.,Silakan cek nomor resi sebelum menghubungi kurir tentang casing ponsel Anda.,nomor resi
+validation,Please check the tracking number before contacting the courier about your desk lamp.,Silakan cek nomor resi sebelum menghubungi kurir tentang lampu meja Anda.,nomor resi
+train,The shipping fee for the backpack will be shown at checkout.,Ongkos kirim untuk tas ransel akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the umbrella will be shown at checkout.,Ongkos kirim untuk payung akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the phone case will be shown at checkout.,Ongkos kirim untuk casing ponsel akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the shoes will be shown at checkout.,Ongkos kirim untuk sepatu akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the sunglasses will be shown at checkout.,Ongkos kirim untuk kacamata hitam akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the water bottle will be shown at checkout.,Ongkos kirim untuk botol minum akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the headphones will be shown at checkout.,Ongkos kirim untuk headphone akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the watch will be shown at checkout.,Ongkos kirim untuk jam tangan akan ditampilkan saat checkout.,ongkos kirim
+validation,The shipping fee for the desk lamp will be shown at checkout.,Ongkos kirim untuk lampu meja akan ditampilkan saat checkout.,ongkos kirim
+train,The shipping fee for the desk lamp was charged twice.,Ongkos kirim untuk lampu meja terpotong dua kali.,ongkos kirim
+train,The shipping fee for the watch was charged twice.,Ongkos kirim untuk jam tangan terpotong dua kali.,ongkos kirim
+train,The shipping fee for the water bottle was charged twice.,Ongkos kirim untuk botol minum terpotong dua kali.,ongkos kirim
+train,The shipping fee for the rice cooker was charged twice.,Ongkos kirim untuk rice cooker terpotong dua kali.,ongkos kirim
+train,The shipping fee for the phone charger was charged twice.,Ongkos kirim untuk charger ponsel terpotong dua kali.,ongkos kirim
+train,The shipping fee for the backpack was charged twice.,Ongkos kirim untuk tas ransel terpotong dua kali.,ongkos kirim
+train,The shipping fee for the jacket was charged twice.,Ongkos kirim untuk jaket terpotong dua kali.,ongkos kirim
+train,The shipping fee for the headphones was charged twice.,Ongkos kirim untuk headphone terpotong dua kali.,ongkos kirim
+validation,The shipping fee for the shoes was charged twice.,Ongkos kirim untuk sepatu terpotong dua kali.,ongkos kirim
+train,You can get free shipping on the phone charger with this voucher.,Anda bisa mendapatkan gratis ongkir untuk charger ponsel dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the sunglasses with this voucher.,Anda bisa mendapatkan gratis ongkir untuk kacamata hitam dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the water bottle with this voucher.,Anda bisa mendapatkan gratis ongkir untuk botol minum dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the keyboard with this voucher.,Anda bisa mendapatkan gratis ongkir untuk keyboard dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the watch with this voucher.,Anda bisa mendapatkan gratis ongkir untuk jam tangan dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the rice cooker with this voucher.,Anda bisa mendapatkan gratis ongkir untuk rice cooker dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the jacket with this voucher.,Anda bisa mendapatkan gratis ongkir untuk jaket dengan voucher ini.,gratis ongkir
+train,You can get free shipping on the phone case with this voucher.,Anda bisa mendapatkan gratis ongkir untuk casing ponsel dengan voucher ini.,gratis ongkir
+validation,You can get free shipping on the headphones with this voucher.,Anda bisa mendapatkan gratis ongkir untuk headphone dengan voucher ini.,gratis ongkir
+train,Free shipping does not apply to the sunglasses.,Gratis ongkir tidak berlaku untuk kacamata hitam.,gratis ongkir
+train,Free shipping does not apply to the shoes.,Gratis ongkir tidak berlaku untuk sepatu.,gratis ongkir
+train,Free shipping does not apply to the rice cooker.,Gratis ongkir tidak berlaku untuk rice cooker.,gratis ongkir
+train,Free shipping does not apply to the phone case.,Gratis ongkir tidak berlaku untuk casing ponsel.,gratis ongkir
+train,Free shipping does not apply to the phone charger.,Gratis ongkir tidak berlaku untuk charger ponsel.,gratis ongkir
+train,Free shipping does not apply to the water bottle.,Gratis ongkir tidak berlaku untuk botol minum.,gratis ongkir
+train,Free shipping does not apply to the jacket.,Gratis ongkir tidak berlaku untuk jaket.,gratis ongkir
+train,Free shipping does not apply to the headphones.,Gratis ongkir tidak berlaku untuk headphone.,gratis ongkir
+validation,Free shipping does not apply to the T-shirt.,Gratis ongkir tidak berlaku untuk kaus.,gratis ongkir
+train,Cash on delivery is available for the jacket.,Bayar di tempat (COD) tersedia untuk jaket.,bayar di tempat
+train,Cash on delivery is available for the desk lamp.,Bayar di tempat (COD) tersedia untuk lampu meja.,bayar di tempat
+train,Cash on delivery is available for the shoes.,Bayar di tempat (COD) tersedia untuk sepatu.,bayar di tempat
+train,Cash on delivery is available for the phone case.,Bayar di tempat (COD) tersedia untuk casing ponsel.,bayar di tempat
+train,Cash on delivery is available for the sunglasses.,Bayar di tempat (COD) tersedia untuk kacamata hitam.,bayar di tempat
+train,Cash on delivery is available for the water bottle.,Bayar di tempat (COD) tersedia untuk botol minum.,bayar di tempat
+train,Cash on delivery is available for the backpack.,Bayar di tempat (COD) tersedia untuk tas ransel.,bayar di tempat
+train,Cash on delivery is available for the umbrella.,Bayar di tempat (COD) tersedia untuk payung.,bayar di tempat
+validation,Cash on delivery is available for the rice cooker.,Bayar di tempat (COD) tersedia untuk rice cooker.,bayar di tempat
+train,Cash on delivery cannot be used for the phone charger.,Bayar di tempat (COD) tidak dapat digunakan untuk charger ponsel.,bayar di tempat
+train,Cash on delivery cannot be used for the desk lamp.,Bayar di tempat (COD) tidak dapat digunakan untuk lampu meja.,bayar di tempat
+train,Cash on delivery cannot be used for the phone case.,Bayar di tempat (COD) tidak dapat digunakan untuk casing ponsel.,bayar di tempat
+train,Cash on delivery cannot be used for the backpack.,Bayar di tempat (COD) tidak dapat digunakan untuk tas ransel.,bayar di tempat
+train,Cash on delivery cannot be used for the rice cooker.,Bayar di tempat (COD) tidak dapat digunakan untuk rice cooker.,bayar di tempat
+train,Cash on delivery cannot be used for the umbrella.,Bayar di tempat (COD) tidak dapat digunakan untuk payung.,bayar di tempat
+train,Cash on delivery cannot be used for the jacket.,Bayar di tempat (COD) tidak dapat digunakan untuk jaket.,bayar di tempat
+train,Cash on delivery cannot be used for the shoes.,Bayar di tempat (COD) tidak dapat digunakan untuk sepatu.,bayar di tempat
+validation,Cash on delivery cannot be used for the water bottle.,Bayar di tempat (COD) tidak dapat digunakan untuk botol minum.,bayar di tempat
+train,"If the keyboard arrived damaged, you can request a refund within 7 days.","Jika keyboard tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 7 hari.",pengembalian dana
+train,"If the sunglasses arrived damaged, you can request a refund within 7 days.","Jika kacamata hitam tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 7 hari.",pengembalian dana
+train,"If the desk lamp arrived damaged, you can request a refund within 7 days.","Jika lampu meja tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 7 hari.",pengembalian dana
+train,"If the backpack arrived damaged, you can request a refund within 2 days.","Jika tas ransel tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 2 hari.",pengembalian dana
+train,"If the umbrella arrived damaged, you can request a refund within 2 days.","Jika payung tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 2 hari.",pengembalian dana
+train,"If the watch arrived damaged, you can request a refund within 7 days.","Jika jam tangan tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 7 hari.",pengembalian dana
+train,"If the rice cooker arrived damaged, you can request a refund within 5 days.","Jika rice cooker tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 5 hari.",pengembalian dana
+train,"If the shoes arrived damaged, you can request a refund within 3 days.","Jika sepatu tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 3 hari.",pengembalian dana
+validation,"If the phone charger arrived damaged, you can request a refund within 3 days.","Jika charger ponsel tiba dalam keadaan rusak, Anda dapat mengajukan pengembalian dana dalam 3 hari.",pengembalian dana
+train,You will receive the refund for the desk lamp within 7 days.,Anda akan menerima pengembalian dana untuk lampu meja dalam 7 hari.,pengembalian dana
+train,You will receive the refund for the T-shirt within 2 days.,Anda akan menerima pengembalian dana untuk kaus dalam 2 hari.,pengembalian dana
+train,You will receive the refund for the watch within 2 days.,Anda akan menerima pengembalian dana untuk jam tangan dalam 2 hari.,pengembalian dana
+train,You will receive the refund for the headphones within 3 days.,Anda akan menerima pengembalian dana untuk headphone dalam 3 hari.,pengembalian dana
+train,You will receive the refund for the water bottle within 7 days.,Anda akan menerima pengembalian dana untuk botol minum dalam 7 hari.,pengembalian dana
+train,You will receive the refund for the sunglasses within 7 days.,Anda akan menerima pengembalian dana untuk kacamata hitam dalam 7 hari.,pengembalian dana
+train,You will receive the refund for the backpack within 7 days.,Anda akan menerima pengembalian dana untuk tas ransel dalam 7 hari.,pengembalian dana
+train,You will receive the refund for the umbrella within 3 days.,Anda akan menerima pengembalian dana untuk payung dalam 3 hari.,pengembalian dana
+validation,You will receive the refund for the shoes within 2 days.,Anda akan menerima pengembalian dana untuk sepatu dalam 2 hari.,pengembalian dana
+train,The refund for your water bottle will be sent to your digital wallet.,Pengembalian dana untuk botol minum Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your headphones will be sent to your digital wallet.,Pengembalian dana untuk headphone Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your desk lamp will be sent to your digital wallet.,Pengembalian dana untuk lampu meja Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your sunglasses will be sent to your digital wallet.,Pengembalian dana untuk kacamata hitam Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your watch will be sent to your digital wallet.,Pengembalian dana untuk jam tangan Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your phone charger will be sent to your digital wallet.,Pengembalian dana untuk charger ponsel Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your umbrella will be sent to your digital wallet.,Pengembalian dana untuk payung Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,The refund for your phone case will be sent to your digital wallet.,Pengembalian dana untuk casing ponsel Anda akan dikirim ke dompet digital Anda.,dompet digital
+validation,The refund for your keyboard will be sent to your digital wallet.,Pengembalian dana untuk keyboard Anda akan dikirim ke dompet digital Anda.,dompet digital
+train,"Sorry, we have run out of stock for the phone case.","Maaf, stok casing ponsel sudah habis.",stok
+train,"Sorry, we have run out of stock for the rice cooker.","Maaf, stok rice cooker sudah habis.",stok
+train,"Sorry, we have run out of stock for the backpack.","Maaf, stok tas ransel sudah habis.",stok
+train,"Sorry, we have run out of stock for the watch.","Maaf, stok jam tangan sudah habis.",stok
+train,"Sorry, we have run out of stock for the sunglasses.","Maaf, stok kacamata hitam sudah habis.",stok
+train,"Sorry, we have run out of stock for the umbrella.","Maaf, stok payung sudah habis.",stok
+train,"Sorry, we have run out of stock for the shoes.","Maaf, stok sepatu sudah habis.",stok
+train,"Sorry, we have run out of stock for the water bottle.","Maaf, stok botol minum sudah habis.",stok
+validation,"Sorry, we have run out of stock for the desk lamp.","Maaf, stok lampu meja sudah habis.",stok
+train,Please add the keyboard to your shopping cart before the flash sale ends.,Silakan masukkan keyboard ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the sunglasses to your shopping cart before the flash sale ends.,Silakan masukkan kacamata hitam ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the phone case to your shopping cart before the flash sale ends.,Silakan masukkan casing ponsel ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the umbrella to your shopping cart before the flash sale ends.,Silakan masukkan payung ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the phone charger to your shopping cart before the flash sale ends.,Silakan masukkan charger ponsel ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the backpack to your shopping cart before the flash sale ends.,Silakan masukkan tas ransel ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the water bottle to your shopping cart before the flash sale ends.,Silakan masukkan botol minum ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Please add the rice cooker to your shopping cart before the flash sale ends.,Silakan masukkan rice cooker ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+validation,Please add the T-shirt to your shopping cart before the flash sale ends.,Silakan masukkan kaus ke keranjang belanja sebelum flash sale berakhir.,keranjang belanja
+train,Enter the promo code at checkout to get a discount on the phone charger.,Masukkan kode promo saat checkout untuk mendapatkan diskon charger ponsel.,kode promo
+train,Enter the promo code at checkout to get a discount on the T-shirt.,Masukkan kode promo saat checkout untuk mendapatkan diskon kaus.,kode promo
+train,Enter the promo code at checkout to get a discount on the water bottle.,Masukkan kode promo saat checkout untuk mendapatkan diskon botol minum.,kode promo
+train,Enter the promo code at checkout to get a discount on the umbrella.,Masukkan kode promo saat checkout untuk mendapatkan diskon payung.,kode promo
+train,Enter the promo code at checkout to get a discount on the keyboard.,Masukkan kode promo saat checkout untuk mendapatkan diskon keyboard.,kode promo
+train,Enter the promo code at checkout to get a discount on the backpack.,Masukkan kode promo saat checkout untuk mendapatkan diskon tas ransel.,kode promo
+train,Enter the promo code at checkout to get a discount on the jacket.,Masukkan kode promo saat checkout untuk mendapatkan diskon jaket.,kode promo
+train,Enter the promo code at checkout to get a discount on the phone case.,Masukkan kode promo saat checkout untuk mendapatkan diskon casing ponsel.,kode promo
+validation,Enter the promo code at checkout to get a discount on the desk lamp.,Masukkan kode promo saat checkout untuk mendapatkan diskon lampu meja.,kode promo
+train,The courier will deliver your shoes in 3 days.,Kurir akan mengantarkan sepatu Anda dalam 3 hari.,kurir
+train,The courier will deliver your phone case in 3 days.,Kurir akan mengantarkan casing ponsel Anda dalam 3 hari.,kurir
+train,The courier will deliver your headphones in 5 days.,Kurir akan mengantarkan headphone Anda dalam 5 hari.,kurir
+train,The courier will deliver your T-shirt in 2 days.,Kurir akan mengantarkan kaus Anda dalam 2 hari.,kurir
+train,The courier will deliver your phone charger in 3 days.,Kurir akan mengantarkan charger ponsel Anda dalam 3 hari.,kurir
+train,The courier will deliver your sunglasses in 3 days.,Kurir akan mengantarkan kacamata hitam Anda dalam 3 hari.,kurir
+train,The courier will deliver your jacket in 2 days.,Kurir akan mengantarkan jaket Anda dalam 2 hari.,kurir
+train,The courier will deliver your water bottle in 7 days.,Kurir akan mengantarkan botol minum Anda dalam 7 hari.,kurir
+validation,The courier will deliver your watch in 3 days.,Kurir akan mengantarkan jam tangan Anda dalam 3 hari.,kurir
+train,Do not confirm that the order was received before you check the sunglasses.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa kacamata hitam.,pesanan
+train,Do not confirm that the order was received before you check the T-shirt.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa kaus.,pesanan
+train,Do not confirm that the order was received before you check the headphones.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa headphone.,pesanan
+train,Do not confirm that the order was received before you check the watch.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa jam tangan.,pesanan
+train,Do not confirm that the order was received before you check the shoes.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa sepatu.,pesanan
+train,Do not confirm that the order was received before you check the umbrella.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa payung.,pesanan
+train,Do not confirm that the order was received before you check the jacket.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa jaket.,pesanan
+train,Do not confirm that the order was received before you check the rice cooker.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa rice cooker.,pesanan
+validation,Do not confirm that the order was received before you check the backpack.,Jangan konfirmasi pesanan diterima sebelum Anda memeriksa tas ransel.,pesanan
+train,"Do not cancel the order, because we have already packed the jacket.","Jangan batalkan pesanan, karena kami sudah mengemas jaket.",pesanan
+train,"Do not cancel the order, because we have already packed the water bottle.","Jangan batalkan pesanan, karena kami sudah mengemas botol minum.",pesanan
+train,"Do not cancel the order, because we have already packed the phone case.","Jangan batalkan pesanan, karena kami sudah mengemas casing ponsel.",pesanan
+train,"Do not cancel the order, because we have already packed the headphones.","Jangan batalkan pesanan, karena kami sudah mengemas headphone.",pesanan
+train,"Do not cancel the order, because we have already packed the sunglasses.","Jangan batalkan pesanan, karena kami sudah mengemas kacamata hitam.",pesanan
+train,"Do not cancel the order, because we have already packed the phone charger.","Jangan batalkan pesanan, karena kami sudah mengemas charger ponsel.",pesanan
+train,"Do not cancel the order, because we have already packed the watch.","Jangan batalkan pesanan, karena kami sudah mengemas jam tangan.",pesanan
+train,"Do not cancel the order, because we have already packed the keyboard.","Jangan batalkan pesanan, karena kami sudah mengemas keyboard.",pesanan
+validation,"Do not cancel the order, because we have already packed the rice cooker.","Jangan batalkan pesanan, karena kami sudah mengemas rice cooker.",pesanan
+train,Please leave a review after you receive the shoes.,Silakan berikan ulasan setelah Anda menerima sepatu.,ulasan
+train,Please leave a review after you receive the umbrella.,Silakan berikan ulasan setelah Anda menerima payung.,ulasan
+train,Please leave a review after you receive the watch.,Silakan berikan ulasan setelah Anda menerima jam tangan.,ulasan
+train,Please leave a review after you receive the sunglasses.,Silakan berikan ulasan setelah Anda menerima kacamata hitam.,ulasan
+train,Please leave a review after you receive the phone charger.,Silakan berikan ulasan setelah Anda menerima charger ponsel.,ulasan
+train,Please leave a review after you receive the keyboard.,Silakan berikan ulasan setelah Anda menerima keyboard.,ulasan
+train,Please leave a review after you receive the backpack.,Silakan berikan ulasan setelah Anda menerima tas ransel.,ulasan
+train,Please leave a review after you receive the T-shirt.,Silakan berikan ulasan setelah Anda menerima kaus.,ulasan
+validation,Please leave a review after you receive the desk lamp.,Silakan berikan ulasan setelah Anda menerima lampu meja.,ulasan
+train,The seller will send you a replacement for the T-shirt within 2 days.,Penjual akan mengirimkan pengganti kaus dalam 2 hari.,penjual
+train,The seller will send you a replacement for the backpack within 5 days.,Penjual akan mengirimkan pengganti tas ransel dalam 5 hari.,penjual
+train,The seller will send you a replacement for the watch within 7 days.,Penjual akan mengirimkan pengganti jam tangan dalam 7 hari.,penjual
+train,The seller will send you a replacement for the rice cooker within 5 days.,Penjual akan mengirimkan pengganti rice cooker dalam 5 hari.,penjual
+train,The seller will send you a replacement for the umbrella within 7 days.,Penjual akan mengirimkan pengganti payung dalam 7 hari.,penjual
+train,The seller will send you a replacement for the sunglasses within 3 days.,Penjual akan mengirimkan pengganti kacamata hitam dalam 3 hari.,penjual
+train,The seller will send you a replacement for the water bottle within 7 days.,Penjual akan mengirimkan pengganti botol minum dalam 7 hari.,penjual
+train,The seller will send you a replacement for the headphones within 3 days.,Penjual akan mengirimkan pengganti headphone dalam 3 hari.,penjual
+validation,The seller will send you a replacement for the desk lamp within 2 days.,Penjual akan mengirimkan pengganti lampu meja dalam 2 hari.,penjual
+train,The seller has not shipped your phone charger yet.,Penjual belum mengirim charger ponsel Anda.,penjual
+train,The seller has not shipped your rice cooker yet.,Penjual belum mengirim rice cooker Anda.,penjual
+train,The seller has not shipped your headphones yet.,Penjual belum mengirim headphone Anda.,penjual
+train,The seller has not shipped your keyboard yet.,Penjual belum mengirim keyboard Anda.,penjual
+train,The seller has not shipped your jacket yet.,Penjual belum mengirim jaket Anda.,penjual
+train,The seller has not shipped your phone case yet.,Penjual belum mengirim casing ponsel Anda.,penjual
+train,The seller has not shipped your backpack yet.,Penjual belum mengirim tas ransel Anda.,penjual
+train,The seller has not shipped your umbrella yet.,Penjual belum mengirim payung Anda.,penjual
+validation,The seller has not shipped your T-shirt yet.,Penjual belum mengirim kaus Anda.,penjual
+train,You can submit a return request for the T-shirt within 7 days.,Anda dapat mengajukan pengembalian barang untuk kaus dalam 7 hari.,pengembalian barang
+train,You can submit a return request for the rice cooker within 3 days.,Anda dapat mengajukan pengembalian barang untuk rice cooker dalam 3 hari.,pengembalian barang
+train,You can submit a return request for the umbrella within 7 days.,Anda dapat mengajukan pengembalian barang untuk payung dalam 7 hari.,pengembalian barang
+train,You can submit a return request for the shoes within 7 days.,Anda dapat mengajukan pengembalian barang untuk sepatu dalam 7 hari.,pengembalian barang
+train,You can submit a return request for the phone case within 5 days.,Anda dapat mengajukan pengembalian barang untuk casing ponsel dalam 5 hari.,pengembalian barang
+train,You can submit a return request for the watch within 7 days.,Anda dapat mengajukan pengembalian barang untuk jam tangan dalam 7 hari.,pengembalian barang
+train,You can submit a return request for the backpack within 7 days.,Anda dapat mengajukan pengembalian barang untuk tas ransel dalam 7 hari.,pengembalian barang
+train,You can submit a return request for the keyboard within 7 days.,Anda dapat mengajukan pengembalian barang untuk keyboard dalam 7 hari.,pengembalian barang
+validation,You can submit a return request for the jacket within 5 days.,Anda dapat mengajukan pengembalian barang untuk jaket dalam 5 hari.,pengembalian barang
+train,Your payment for the sunglasses has not been received yet.,Pembayaran Anda untuk kacamata hitam belum kami terima.,pembayaran
+train,Your payment for the rice cooker has not been received yet.,Pembayaran Anda untuk rice cooker belum kami terima.,pembayaran
+train,Your payment for the water bottle has not been received yet.,Pembayaran Anda untuk botol minum belum kami terima.,pembayaran
+train,Your payment for the phone charger has not been received yet.,Pembayaran Anda untuk charger ponsel belum kami terima.,pembayaran
+train,Your payment for the desk lamp has not been received yet.,Pembayaran Anda untuk lampu meja belum kami terima.,pembayaran
+train,Your payment for the backpack has not been received yet.,Pembayaran Anda untuk tas ransel belum kami terima.,pembayaran
+train,Your payment for the umbrella has not been received yet.,Pembayaran Anda untuk payung belum kami terima.,pembayaran
+train,Your payment for the headphones has not been received yet.,Pembayaran Anda untuk headphone belum kami terima.,pembayaran
+validation,Your payment for the shoes has not been received yet.,Pembayaran Anda untuk sepatu belum kami terima.,pembayaran
+train,Please pay for the jacket with a virtual account number within 24 hours.,Silakan bayar jaket dengan nomor virtual account dalam 24 jam.,virtual account
+train,Please pay for the phone charger with a virtual account number within 6 hours.,Silakan bayar charger ponsel dengan nomor virtual account dalam 6 jam.,virtual account
+train,Please pay for the desk lamp with a virtual account number within 6 hours.,Silakan bayar lampu meja dengan nomor virtual account dalam 6 jam.,virtual account
+train,Please pay for the watch with a virtual account number within 6 hours.,Silakan bayar jam tangan dengan nomor virtual account dalam 6 jam.,virtual account
+train,Please pay for the shoes with a virtual account number within 24 hours.,Silakan bayar sepatu dengan nomor virtual account dalam 24 jam.,virtual account
+train,Please pay for the backpack with a virtual account number within 6 hours.,Silakan bayar tas ransel dengan nomor virtual account dalam 6 jam.,virtual account
+train,Please pay for the rice cooker with a virtual account number within 6 hours.,Silakan bayar rice cooker dengan nomor virtual account dalam 6 jam.,virtual account
+train,Please pay for the headphones with a virtual account number within 6 hours.,Silakan bayar headphone dengan nomor virtual account dalam 6 jam.,virtual account
+validation,Please pay for the water bottle with a virtual account number within 6 hours.,Silakan bayar botol minum dengan nomor virtual account dalam 6 jam.,virtual account
+train,Our customer service team will check the problem with your jacket.,Tim layanan pelanggan kami akan memeriksa masalah pada jaket Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your rice cooker.,Tim layanan pelanggan kami akan memeriksa masalah pada rice cooker Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your headphones.,Tim layanan pelanggan kami akan memeriksa masalah pada headphone Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your watch.,Tim layanan pelanggan kami akan memeriksa masalah pada jam tangan Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your T-shirt.,Tim layanan pelanggan kami akan memeriksa masalah pada kaus Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your desk lamp.,Tim layanan pelanggan kami akan memeriksa masalah pada lampu meja Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your keyboard.,Tim layanan pelanggan kami akan memeriksa masalah pada keyboard Anda.,layanan pelanggan
+train,Our customer service team will check the problem with your water bottle.,Tim layanan pelanggan kami akan memeriksa masalah pada botol minum Anda.,layanan pelanggan
+validation,Our customer service team will check the problem with your umbrella.,Tim layanan pelanggan kami akan memeriksa masalah pada payung Anda.,layanan pelanggan
+train,The warranty for the headphones lasts for one year.,Garansi headphone berlaku selama satu tahun.,garansi
+train,The warranty for the watch lasts for one year.,Garansi jam tangan berlaku selama satu tahun.,garansi
+train,The warranty for the water bottle lasts for one year.,Garansi botol minum berlaku selama satu tahun.,garansi
+train,The warranty for the phone case lasts for one year.,Garansi casing ponsel berlaku selama satu tahun.,garansi
+train,The warranty for the desk lamp lasts for one year.,Garansi lampu meja berlaku selama satu tahun.,garansi
+train,The warranty for the shoes lasts for one year.,Garansi sepatu berlaku selama satu tahun.,garansi
+train,The warranty for the phone charger lasts for one year.,Garansi charger ponsel berlaku selama satu tahun.,garansi
+train,The warranty for the T-shirt lasts for one year.,Garansi kaus berlaku selama satu tahun.,garansi
+validation,The warranty for the rice cooker lasts for one year.,Garansi rice cooker berlaku selama satu tahun.,garansi
+train,The package with your T-shirt is waiting at the courier's warehouse.,Paket berisi kaus Anda sedang menunggu di gudang kurir.,paket
+train,The package with your keyboard is waiting at the courier's warehouse.,Paket berisi keyboard Anda sedang menunggu di gudang kurir.,paket
+train,The package with your headphones is waiting at the courier's warehouse.,Paket berisi headphone Anda sedang menunggu di gudang kurir.,paket
+train,The package with your phone case is waiting at the courier's warehouse.,Paket berisi casing ponsel Anda sedang menunggu di gudang kurir.,paket
+train,The package with your sunglasses is waiting at the courier's warehouse.,Paket berisi kacamata hitam Anda sedang menunggu di gudang kurir.,paket
+train,The package with your water bottle is waiting at the courier's warehouse.,Paket berisi botol minum Anda sedang menunggu di gudang kurir.,paket
+train,The package with your rice cooker is waiting at the courier's warehouse.,Paket berisi rice cooker Anda sedang menunggu di gudang kurir.,paket
+train,The package with your phone charger is waiting at the courier's warehouse.,Paket berisi charger ponsel Anda sedang menunggu di gudang kurir.,paket
+validation,The package with your shoes is waiting at the courier's warehouse.,Paket berisi sepatu Anda sedang menunggu di gudang kurir.,paket
+train,Enter the OTP code to confirm your payment for the phone charger.,Masukkan kode OTP untuk mengonfirmasi pembayaran charger ponsel.,kode OTP
+train,Enter the OTP code to confirm your payment for the rice cooker.,Masukkan kode OTP untuk mengonfirmasi pembayaran rice cooker.,kode OTP
+train,Enter the OTP code to confirm your payment for the jacket.,Masukkan kode OTP untuk mengonfirmasi pembayaran jaket.,kode OTP
+train,Enter the OTP code to confirm your payment for the shoes.,Masukkan kode OTP untuk mengonfirmasi pembayaran sepatu.,kode OTP
+train,Enter the OTP code to confirm your payment for the watch.,Masukkan kode OTP untuk mengonfirmasi pembayaran jam tangan.,kode OTP
+train,Enter the OTP code to confirm your payment for the desk lamp.,Masukkan kode OTP untuk mengonfirmasi pembayaran lampu meja.,kode OTP
+train,Enter the OTP code to confirm your payment for the phone case.,Masukkan kode OTP untuk mengonfirmasi pembayaran casing ponsel.,kode OTP
+train,Enter the OTP code to confirm your payment for the backpack.,Masukkan kode OTP untuk mengonfirmasi pembayaran tas ransel.,kode OTP
+validation,Enter the OTP code to confirm your payment for the T-shirt.,Masukkan kode OTP untuk mengonfirmasi pembayaran kaus.,kode OTP
+train,"Never share your OTP code, even with the seller of the backpack.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual tas ransel.",kode OTP
+train,"Never share your OTP code, even with the seller of the headphones.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual headphone.",kode OTP
+train,"Never share your OTP code, even with the seller of the desk lamp.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual lampu meja.",kode OTP
+train,"Never share your OTP code, even with the seller of the keyboard.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual keyboard.",kode OTP
+train,"Never share your OTP code, even with the seller of the rice cooker.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual rice cooker.",kode OTP
+train,"Never share your OTP code, even with the seller of the watch.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual jam tangan.",kode OTP
+train,"Never share your OTP code, even with the seller of the jacket.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual jaket.",kode OTP
+train,"Never share your OTP code, even with the seller of the shoes.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual sepatu.",kode OTP
+validation,"Never share your OTP code, even with the seller of the sunglasses.","Jangan pernah membagikan kode OTP Anda, termasuk kepada penjual kacamata hitam.",kode OTP
+train,The phone charger will arrive faster if you choose express shipping.,Charger ponsel akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The headphones will arrive faster if you choose express shipping.,Headphone akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The backpack will arrive faster if you choose express shipping.,Tas ransel akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The desk lamp will arrive faster if you choose express shipping.,Lampu meja akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The rice cooker will arrive faster if you choose express shipping.,Rice cooker akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The keyboard will arrive faster if you choose express shipping.,Keyboard akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The shoes will arrive faster if you choose express shipping.,Sepatu akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,The sunglasses will arrive faster if you choose express shipping.,Kacamata hitam akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+validation,The T-shirt will arrive faster if you choose express shipping.,Kaus akan tiba lebih cepat jika Anda memilih pengiriman ekspres.,pengiriman ekspres
+train,Please send us a photo of the damaged phone case.,Silakan kirimkan foto casing ponsel yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged umbrella.,Silakan kirimkan foto payung yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged phone charger.,Silakan kirimkan foto charger ponsel yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged T-shirt.,Silakan kirimkan foto kaus yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged backpack.,Silakan kirimkan foto tas ransel yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged keyboard.,Silakan kirimkan foto keyboard yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged desk lamp.,Silakan kirimkan foto lampu meja yang rusak kepada kami.,rusak
+train,Please send us a photo of the damaged rice cooker.,Silakan kirimkan foto rice cooker yang rusak kepada kami.,rusak
+validation,Please send us a photo of the damaged jacket.,Silakan kirimkan foto jaket yang rusak kepada kami.,rusak
+test,"My package has not arrived, can you check the tracking number?","Paket saya belum sampai, bisakah Anda mengecek nomor resinya?",nomor resi
+test,Where can I find the tracking number for my order?,Di mana saya bisa menemukan nomor resi untuk pesanan saya?,nomor resi
+test,The tracking number you gave me is not valid.,Nomor resi yang Anda berikan tidak valid.,nomor resi
+test,Why is the shipping fee so expensive for a small item?,Mengapa ongkos kirim begitu mahal untuk barang kecil?,ongkos kirim
+test,The shipping fee depends on the weight of the package and your address.,Ongkos kirim bergantung pada berat paket dan alamat Anda.,ongkos kirim
+test,Orders above one hundred thousand rupiah get free shipping.,Pesanan di atas seratus ribu rupiah mendapatkan gratis ongkir.,gratis ongkir
+test,Is free shipping still available today?,Apakah gratis ongkir masih tersedia hari ini?,gratis ongkir
+test,Can I use cash on delivery for this order?,Apakah saya bisa memakai bayar di tempat (COD) untuk pesanan ini?,bayar di tempat
+test,Cash on delivery is only available in certain cities.,Bayar di tempat (COD) hanya tersedia di kota tertentu.,bayar di tempat
+test,I want a refund because the item is broken.,Saya ingin pengembalian dana karena barangnya rusak.,pengembalian dana
+test,When will I get my refund?,Kapan saya akan menerima pengembalian dana saya?,pengembalian dana
+test,The refund was not sent to my bank account.,Pengembalian dana tidak dikirim ke rekening bank saya.,pengembalian dana
+test,Can I top up my digital wallet to pay for this order?,Bisakah saya mengisi saldo dompet digital untuk membayar pesanan ini?,dompet digital
+test,The digital wallet payment failed twice.,Pembayaran dengan dompet digital gagal dua kali.,dompet digital
+test,"This product is out of stock, but it will be restocked next week.","Stok produk ini habis, tetapi akan diisi ulang minggu depan.",stok
+test,Please tell me when the blue jacket is back in stock.,Tolong beri tahu saya kapan stok jaket biru tersedia lagi.,stok
+test,I cannot remove an item from my shopping cart.,Saya tidak bisa menghapus barang dari keranjang belanja saya.,keranjang belanja
+test,Items in your shopping cart are not reserved for you.,Barang di keranjang belanja Anda tidak disimpan khusus untuk Anda.,keranjang belanja
+test,The promo code has expired.,Kode promo sudah kedaluwarsa.,kode promo
+test,My promo code does not work on discounted products.,Kode promo saya tidak berlaku untuk produk yang sedang diskon.,kode promo
+test,"The courier called me, but I was not at home.","Kurir menelepon saya, tetapi saya sedang tidak di rumah.",kurir
+test,Can the courier deliver the package to my office instead?,Bisakah kurir mengantarkan paket ke kantor saya saja?,kurir
+test,I want to cancel my order because I chose the wrong color.,Saya ingin membatalkan pesanan karena saya salah memilih warna.,pesanan
+test,My order is still being processed by the seller.,Pesanan saya masih diproses oleh penjual.,pesanan
+test,The seller did not reply to my message.,Penjual tidak membalas pesan saya.,penjual
+test,Is this seller trusted by many buyers?,Apakah penjual ini dipercaya oleh banyak pembeli?,penjual
+test,I will give a good review if the product arrives on time.,Saya akan memberikan ulasan yang baik jika produk tiba tepat waktu.,ulasan
+test,Reviews with photos help other buyers.,Ulasan dengan foto membantu pembeli lain.,ulasan
+test,How do I submit a return request?,Bagaimana cara mengajukan pengembalian barang?,pengembalian barang
+test,The return request was rejected because the box was opened.,Pengajuan pengembalian barang ditolak karena kotaknya sudah dibuka.,pengembalian barang
+test,"I have paid, but the status still says waiting for payment.","Saya sudah membayar, tetapi statusnya masih menunggu pembayaran.",pembayaran
+test,The virtual account number expired before I could pay.,Nomor virtual account kedaluwarsa sebelum saya sempat membayar.,virtual account
+test,Customer service has not answered my complaint.,Layanan pelanggan belum menjawab keluhan saya.,layanan pelanggan
+test,Please contact customer service if you need help.,Silakan hubungi layanan pelanggan jika Anda membutuhkan bantuan.,layanan pelanggan
+test,Does this phone come with an official warranty?,Apakah ponsel ini dilengkapi garansi resmi?,garansi
+test,The warranty does not cover water damage.,Garansi tidak mencakup kerusakan akibat air.,garansi
+test,The package was left in front of my house.,Paket ditinggalkan di depan rumah saya.,paket
+test,I did not receive the OTP code on my phone.,Saya tidak menerima kode OTP di ponsel saya.,kode OTP
+test,Never tell anyone your OTP code.,Jangan pernah memberi tahu kode OTP Anda kepada siapa pun.,kode OTP
+test,"Express shipping costs more, but the package arrives tomorrow.","Pengiriman ekspres lebih mahal, tetapi paketnya tiba besok.",pengiriman ekspres
